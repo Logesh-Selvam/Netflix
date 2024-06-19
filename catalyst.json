@@ -1,0 +1,6 @@
+{
+  "client": {
+    "source": "netflix",
+    "plugin": "zcatalyst-cli-plugin-react"
+  }
+}
